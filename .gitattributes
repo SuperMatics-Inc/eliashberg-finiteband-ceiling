@@ -1,0 +1,10 @@
+replay/g3x_replay.py -text !eol
+replay/g3x_independent.py -text !eol
+replay/asym_guard.py -text !eol
+replay/window.py -text !eol
+replay/closure.py -text !eol
+replay/transfer_cutoff.py -text !eol
+replay/screening_replay.py -text !eol
+replay/Core.lean -text !eol
+replay/Finite.lean -text !eol
+replay/lean-toolchain -text !eol
